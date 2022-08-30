@@ -154,8 +154,6 @@ header>img {
 
 .circle-green {
     border-radius: 50%;
-    width: 6px;
-    height: 6px;
     padding: 3px;
 
     background: #fff;
@@ -167,8 +165,6 @@ header>img {
   }
   .circle-red {
     border-radius: 50%;
-    width: 6px;
-    height: 6px;
     padding: 3px;
 
     background: #fff;
