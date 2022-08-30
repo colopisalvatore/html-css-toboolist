@@ -7,13 +7,17 @@
     background-color: #F6F8F9;
     font-family: 'Roboto', sans-serif;
 }
-main{
+main {
     margin-top: 50px;
+}
+p {
+    padding-top: 5px;
+
 }
 /* Stile Generico */
 
 /* Header */
-h1{
+h1 {
     font-size: 50px;
 }
 .header-container {
@@ -106,3 +110,71 @@ header>img {
     padding: 5px 10px;
     font-size: 9px;
 }
+.purple {
+    background-color: #9C72E4;
+    margin-left: 10px;
+    border-radius: 10px;
+    color: white;
+    padding: 5px 10px;
+    font-size: 9px;
+}
+.green {
+    background-color: #63C0A9;
+    margin-left: 10px;
+    border-radius: 10px;
+    color: white;
+    padding: 5px 10px;
+    font-size: 9px;
+}
+.orange {
+    background-color: #F29E33;
+    margin-left: 10px;
+    border-radius: 10px;
+    color: white;
+    padding: 5px 10px;
+    font-size: 9px;
+}
+.pink {
+    background-color: #D763A1;
+    margin-left: 10px;
+    border-radius: 10px;
+    color: white;
+    padding: 5px 10px;
+    font-size: 9px;
+}
+
+.lime {
+    background-color: #B3CB2E;
+    margin-left: 10px;
+    border-radius: 10px;
+    color: white;
+    padding: 5px 10px;
+    font-size: 9px;
+}
+
+.circle-green {
+    border-radius: 50%;
+    width: 6px;
+    height: 6px;
+    padding: 3px;
+
+    background: #fff;
+    border: 1px solid green;
+    color: green;
+    text-align: center;
+
+    font: 6px Arial, sans-serif;
+  }
+  .circle-red {
+    border-radius: 50%;
+    width: 6px;
+    height: 6px;
+    padding: 3px;
+
+    background: #fff;
+    border: 1px solid red;
+    color: red;
+    text-align: center;
+
+    font: 6px Arial, sans-serif;
+  }
