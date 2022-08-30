@@ -14,6 +14,9 @@ p {
     padding-top: 5px;
 
 }
+summary {
+    background-color: white;
+}
 /* Stile Generico */
 
 /* Header */
